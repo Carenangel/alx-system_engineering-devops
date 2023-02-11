@@ -1,2 +1,2 @@
-#!/bash/bash
+#!/bin/bash
 chown -R vincent:staff .//
